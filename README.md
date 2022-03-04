@@ -3,10 +3,10 @@ This website is an application that can be used as a to do list, you can create 
 This app uses JavaScript and Node.js code, connected to a database and running on a server.
 
 ## Built With
-*JavaScript
-*Node.js
-*MongoDB
-*Heroku
+* JavaScript
+* Node.js
+* MongoDB
+* Heroku
 
 ## Website
 https://protected-savannah-79856.herokuapp.com/
